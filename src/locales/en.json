@@ -1,0 +1,39 @@
+{
+  "global": {
+    "or": "Or",
+    "login": "Login",
+    "logout": "Logout",
+    "profile": "Profile",
+    "settings": "Settings",
+    "menuCurrency": "Search Currency",
+    "menu1": "Menu item 1",
+    "menu2": "Menu item 2",
+    "home": "Home page",
+    "register": "Register on the platform",
+    "email": "E-mail",
+    "fullName": "Full Name",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "formValidationError": "Form validation Error! please correct data",
+    "error": "There was an error!"
+  },
+  "auth": {
+    "creatAccount": "Create your account",
+    "LoginOnthePlatform": "Login on the platform",
+    "welcome": "Please register or login to use the platform",
+    "validationEmailRequired": "E-mail is required",
+    "validationEmailValidEmail": "E-mail must be valid",
+    "validationPasswordRequired": "password is required",
+    "validationPasswordValidEmail": "Password must contain at least lowercase letter, one number, a special character and one uppercase letter",
+    "validationPasswordError": "Form validation Error! password and confirmed password not matching"
+  },
+  "currencyInfo": {
+    "choseCurrency" : "Chose a currency",
+    "searchForCurrency" : "Search for the Currency",
+    "searchForCurrencyMin3Char" : "(Type minimum 3 character)",
+    "market1Day" : "1 Day Market",
+    "market30Day" : "30 Day Market",
+    "searchForCoin" : "Search for a coin..."
+  }
+
+}
